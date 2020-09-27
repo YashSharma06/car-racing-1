@@ -13,12 +13,12 @@ var cara,carb,carc,card;
 
 function preload(){
 
- cara = loadImage("../images/car1.png");
- carb = loadImage("../images/car2.png");
- carc = loadImage("../images/car3.png");
- card = loadImage("../images/car4.png");
- ground = loadImage("../images/ground.png");
- track = loadImage("../images/track.jpg");
+ cara = loadImage("car1.png");
+ carb = loadImage("car2.png");
+ carc = loadImage("car3.png");
+ card = loadImage("car4.png");
+ ground = loadImage("ground.png");
+ track = loadImage("track.jpg");
 
 }
 
